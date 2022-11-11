@@ -11,3 +11,9 @@ Train and Test split on complete dataset;
 Build the classifier : Defining Functions and calling them as needed;
 Finding accuracy on Test Data ;
 Build a Web application using flask for the same;
+
+
+To complete this project you should have the following softwares  and packages 
+Anaconda Navigator :
+ Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS.Conda is an open-source, cross-platform,  package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,
+QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder
